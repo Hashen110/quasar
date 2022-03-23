@@ -368,7 +368,7 @@
 
             "closeBtn": {
               "type": [ "Boolean", "String" ],
-              "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label accordding to the current Quasar language",
+              "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label according to the current Quasar language",
               "examples": [ "Close me" ]
             },
 
@@ -520,7 +520,7 @@
 
               "closeBtn": {
                 "type": [ "Boolean", "String" ],
-                "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label accordding to the current Quasar language",
+                "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label according to the current Quasar language",
                 "examples": [ "Close me" ]
               },
 
@@ -723,7 +723,7 @@
 
             "closeBtn": {
               "type": [ "Boolean", "String" ],
-              "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label accordding to the current Quasar language",
+              "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label according to the current Quasar language",
               "examples": [ "Close me" ]
             },
 
@@ -926,7 +926,7 @@
 
             "closeBtn": {
               "type": [ "Boolean", "String" ],
-              "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label accordding to the current Quasar language",
+              "desc": "Convenience way to add a dismiss button with a specific label, without using the 'actions' prop; If set to true, it uses a label according to the current Quasar language",
               "examples": [ "Close me" ]
             },
 
