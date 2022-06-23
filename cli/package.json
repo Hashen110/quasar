@@ -68,7 +68,7 @@
     "route-cache": "0.4.7",
     "selfsigned": "^2.0.0",
     "tildify": "^2.0.0",
-    "update-notifier": "^5.1.0",
+    "update-notifier": "^6.0.0",
     "validate-npm-package-name": "^3.0.0"
   },
   "resolutions": {
