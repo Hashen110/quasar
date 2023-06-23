@@ -41,7 +41,7 @@
     "elementtree": "^0.1.7",
     "fast-glob": "^3.2.11",
     "fs-extra": "^10.0.1",
-    "imagemin": "^7.0.1",
+    "imagemin": "^8.0.0",
     "imagemin-pngquant": "^9.0.2",
     "is-png": "^2.0.0",
     "kolorist": "^1.5.1",
@@ -52,7 +52,7 @@
     "sharp": "^0.30.3",
     "svgo": "^2.8.0",
     "untildify": "^4.0.0",
-    "update-notifier": "^5.1.0"
+    "update-notifier": "^6.0.0"
   },
   "resolutions": {
     "minimist": "^1.2.6"
