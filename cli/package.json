@@ -64,7 +64,7 @@
     "open": "7.0.4",
     "ora": "5.4.0",
     "read-metadata": "^1.0.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "route-cache": "0.4.7",
     "selfsigned": "^2.0.0",
     "tildify": "^2.0.0",
