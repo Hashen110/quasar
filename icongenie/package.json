@@ -41,7 +41,7 @@
     "elementtree": "^0.1.7",
     "fast-glob": "^3.2.11",
     "fs-extra": "^10.0.1",
-    "imagemin": "^7.0.1",
+    "imagemin": "^8.0.0",
     "imagemin-pngquant": "^9.0.2",
     "is-png": "^2.0.0",
     "kolorist": "^1.5.1",
